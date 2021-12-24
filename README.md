@@ -1,2 +1,5 @@
-# praticando_html
+# {praticando_html}
+
+Algums projétos que eu estou fazendo e práticando durante o curso da B7web...
+Aproveita esse tempo e pratique você também :3
 Praticando um pouco de html...
